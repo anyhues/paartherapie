@@ -1,0 +1,13 @@
+extends /couples_layout
+include /helper
+
+//- block head
+
+block content
+  .area
+    include:markdown-it landing-page/couple_intro.md
+
+  +teaser-list(['family', 'single', 'corporations'])
+
+  //- .area
+  //-   include:markdown-it landing-page/methods.md
