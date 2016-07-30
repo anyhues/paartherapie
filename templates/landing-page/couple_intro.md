@@ -1,4 +1,4 @@
-## Liebe, Glück und Zufriedenheit
+### Liebe, Glück und Zufriedenheit
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -11,3 +11,9 @@ Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, qui
 * Unterschiedliche Bedürfnisse nach Nähe
 * Seitensprung / Affären
 * Nicht zielführende Kommunikation
+
+### Termine & Kosten
+
+**Kostenloses Erstgespräch**
+
+Sie vereinbaren mit mir ein kostenloses Erstgespräch um mich und meine Arbeitsweise kennen zu lernen. Erst danach entscheiden Sie ob und wie Sie mit mir zusammen arbeiten wollen.

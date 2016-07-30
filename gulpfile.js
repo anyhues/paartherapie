@@ -19,7 +19,10 @@ tasks.forEach(service => service.load(gulp, config))
 gulp.task('run', sequence(['watch', 'server']))
 
 gulp.task('deploy', ['dist'], () => {
-  gulp.src(config.get('distGlob'))
-  .pipe(ghPages().on('error', gutil.log))
+  gulp.src([config.get('distGlob'), 'CNAME'])
+  .pipe(ghPages({
+    remoteUrl: 'git@github.com:anyhues-couples/anyhues-couples.github.io.git',
+    branch: 'master'
+  }).on('error', gutil.log))
   .pipe(print())
 })
