@@ -22,5 +22,4 @@ Mehr zu meiner [Arbeitsweise](http://www.praxis-niehues.de/#methods).
 * Unterschiedliche sexuelle Bedürfnisse
 * Probleme in der Sexualität
 * Umgang mit Krankheit
-
-...
+* u.v.m.
