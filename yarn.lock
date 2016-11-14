@@ -2940,8 +2940,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-"niehues-assets@file:///Users/falk/code/github.com/niehues/assets":
-  version "0.0.1"
+niehues-assets@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/niehues-assets/-/niehues-assets-0.0.9.tgz#5ddc4fb3352f01c97a777884b15e4b91a050c140"
   dependencies:
     convict "^1.4.0"
     del "^2.2.1"
