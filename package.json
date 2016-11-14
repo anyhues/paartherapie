@@ -8,7 +8,7 @@
     "start": "gulp watch & gulp server",
     "build": "gulp build",
     "dist": "NODE_ENV=production gulp dist",
-    "deploy": "NODE_ENV=production gulp deploy",
+    "deploy": "NODE_ENV=production gulp deploy && NODE_ENV=production CANONICAL=true gulp deploy",
     "watch": "gulp watch"
   },
   "author": "Andreas Niehues <andreas@niehu.es>",
@@ -18,7 +18,7 @@
     "standard": "^7.1.2"
   },
   "dependencies": {
-    "convict": "^1.4.0",
+    "convict": "^1.5.0",
     "del": "^2.2.1",
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4",

@@ -1,5 +1,7 @@
 node_modules/
 dist/
 build/
+canonical-dist/
+canonical-build/
 data/
 .publish/
