@@ -3,6 +3,8 @@ include /helper
 
 block title
   title Paartherapie - Andreas Niehues
+  if (config.get('canonical'))
+    link(rel="canonical" href=COUPLES_HOST)
 
 block content
   .area
