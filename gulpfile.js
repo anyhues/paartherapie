@@ -4,7 +4,7 @@ const gutil = require('gulp-util')
 const print = require('gulp-print')
 const sequence = require('gulp-sequence')
 const ghPages = require('gulp-gh-pages')
-const assets = require('niehues-assets')
+const assets = require('niehues-assets-dup')
 const sitemap = require('gulp-sitemap')
 
 const presets = {}
